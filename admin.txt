@@ -1,2 +1,1 @@
-this is a file of project
-we have made the changes
+this is a file of admin
